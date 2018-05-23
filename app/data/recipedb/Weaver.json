@@ -16394,26 +16394,9 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 3548,
-    "durability": 70,
-    "id": "cb20fa13028",
-    "level": 350,
-    "maxQuality": 25881,
-    "name": {
-      "cn": "True Linen Trousers of Striking",
-      "de": "Reinleinen-Hose des Schlagens",
-      "en": "True Linen Trousers of Striking",
-      "fr": "Pantalon d'agresseur en lin hingashien",
-      "ja": "トゥルーリネン・ストライカートラウザー",
-      "ko": "True Linen Trousers of Striking"
-    },
-    "stars": 3
-  }
-  {
-    "baseLevel": 70,
     "difficulty": 3943,
     "durability": 70,
-    "id": "cb20fa13029",
+    "id": "cb20fa13028",
     "level": 350,
     "maxQuality": 29579,
     "name": {
