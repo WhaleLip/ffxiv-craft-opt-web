@@ -16409,4 +16409,21 @@
     },
     "stars": 3
   }
+  {
+    "baseLevel": 70,
+    "difficulty": 3943,
+    "durability": 70,
+    "id": "cb20fa13029",
+    "level": 350,
+    "maxQuality": 29579,
+    "name": {
+      "cn": "Patch 4.3 Crafing/Gathering endcraft",
+      "de": "Reinleinen-Hose des Schlagens",
+      "en": "True Linen Trousers of Striking",
+      "fr": "Pantalon d'agresseur en lin hingashien",
+      "ja": "トゥルーリネン・ストライカートラウザー",
+      "ko": "True Linen Trousers of Striking"
+    },
+    "stars": 3
+  }
 ]
