@@ -11256,5 +11256,23 @@
       "ko": "Nightsteel Shield"
     },
     "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 3943,
+    "durability": 70,
+    "id": "97a8045a921",
+    "level": 350,
+    "maxQuality": 29579,
+    "name": {
+      "cn": "Nightsteel Shield",
+      "de": "Nachtstahl-Schild",
+      "en": "Nightsteel Alembic",
+      "fr": "Bouclier en noctacier",
+      "ja": "ナイトスチールシールド",
+      "ko": "Nightsteel Shield"
+    },
+    "stars": 3
   }
+
 ]
