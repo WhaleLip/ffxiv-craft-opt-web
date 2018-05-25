@@ -1,20 +1,36 @@
 [
   {
     "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "5f43862f943",
+    "level": 350,
+    "maxQuality": 24033,
+    "name": {
+      "cn": "Progress: 2760, Quality: 24033",
+      "de": "Progress: 2760, Quality: 24033",
+      "en": "Progress: 2760, Quality: 24033",
+      "fr": "Progress: 2760, Quality: 24033",
+      "ja": "Progress: 2760, Quality: 24033",
+      "ko": "Progress: 2760, Quality: 24033"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
     "difficulty": 3943,
     "durability": 70,
-    "id": "97a8045a921",
+    "id": "5f43862f943",
     "level": 350,
     "maxQuality": 29579,
     "name": {
-      "cn": "Nightsteel Shield",
-      "de": "Nachtstahl-Schild",
-      "en": "Nightsteel Alembic",
-      "fr": "Bouclier en noctacier",
-      "ja": "ナイトスチールシールド",
-      "ko": "Nightsteel Shield"
+      "cn": "Progress: 3943, Quality: 29579",
+      "de": "Progress: 3943, Quality: 29579",
+      "en": "Progress: 3943, Quality: 29579",
+      "fr": "Progress: 3943, Quality: 29579",
+      "ja": "Progress: 3943, Quality: 29579",
+      "ko": "Progress: 3943, Quality: 29579"
     },
     "stars": 3
   }
-
 ]
