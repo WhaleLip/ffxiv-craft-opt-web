@@ -12,24 +12,7 @@
       "en": "Progress: 6377, Quality: 28506",
       "fr": "Progress: 6377, Quality: 28506",
       "ja": "Progress: 6377, Quality: 28506",
-      "ko": "Progress: 6377, Quality: 28506",
-    },
-    "stars": 3
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 2760,
-    "durability": 70,
-    "id": "5f43862f943",
-    "level": 350,
-    "maxQuality": 24033,
-    "name": {
-      "cn": "Progress: 2760, Quality: 24033",
-      "de": "Progress: 2760, Quality: 24033",
-      "en": "Progress: 2760, Quality: 24033",
-      "fr": "Progress: 2760, Quality: 24033",
-      "ja": "Progress: 2760, Quality: 24033",
-      "ko": "Progress: 2760, Quality: 24033"
+      "ko": "Progress: 6377, Quality: 28506"
     },
     "stars": 3
   },
