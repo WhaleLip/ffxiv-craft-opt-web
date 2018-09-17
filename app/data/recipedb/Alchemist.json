@@ -32,5 +32,22 @@
       "ko": "Progress: 3943, Quality: 29579"
     },
     "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 4443,
+    "durability": 70,
+    "id": "5f43862f943",
+    "level": 390,
+    "maxQuality": 34579,
+    "name": {
+      "cn": "Progress: 4443, Quality: 34579",
+      "de": "Progress: 4443, Quality: 34579",
+      "en": "Progress: 4443, Quality: 34579",
+      "fr": "Progress: 4443, Quality: 34579",
+      "ja": "Progress: 4443, Quality: 34579",
+      "ko": "Progress: 4443, Quality: 34579"
+    },
+    "stars": 4
   }
 ]
