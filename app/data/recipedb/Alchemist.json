@@ -1,23 +1,6 @@
 [
   {
     "baseLevel": 70,
-    "difficulty": 6377,
-    "durability": 70,
-    "id": "5f43862f943",
-    "level": 350,
-    "maxQuality": 28506,
-    "name": {
-      "cn": "Progress: 6377, Quality: 28506",
-      "de": "Progress: 6377, Quality: 28506",
-      "en": "Progress: 6377, Quality: 28506",
-      "fr": "Progress: 6377, Quality: 28506",
-      "ja": "Progress: 6377, Quality: 28506",
-      "ko": "Progress: 6377, Quality: 28506"
-    },
-    "stars": 3
-  },
-  {
-    "baseLevel": 70,
     "difficulty": 3943,
     "durability": 70,
     "id": "5f43862f943",
