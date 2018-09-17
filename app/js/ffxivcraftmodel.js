@@ -231,7 +231,7 @@ State.prototype.checkViolations = function () {
     if (this.reliability >= this.synth.reliabilityIndex) {
         reliabilityOk = true;
     }
-    
+
     return {
         progressOk: progressOk,
         cpOk: cpOk,
@@ -1973,7 +1973,7 @@ var LevelTable = {
     67: 282,
     68: 285,
     69: 288,
-    70: 290 
+    70: 290
 };
 
 var Ing1RecipeLevelTable = {
@@ -2022,6 +2022,7 @@ var Ing1RecipeLevelTable = {
     300: 291,   // 70_1star
     320: 292,   // 70_2star
     350: 293,   // 70_3star
+    390: 294,   // 70_4star mine
 };
 
 var Ing2RecipeLevelTable = {
@@ -2070,6 +2071,7 @@ var Ing2RecipeLevelTable = {
     300: 290,   // 70_1star
     320: 291,   // 70_2star
     350: 292,   // 70_3star
+    390: 293,   // 70_4star mine
 };
 
 var NymeaisWheelTable = {
@@ -2093,6 +2095,7 @@ var ProgressPenaltyTable = {
     250: -0.04,
     320: -0.02,
     350: -0.035,
+    390: -0.04, // mine
 }
 
 var QualityPenaltyTable = {
@@ -2105,6 +2108,7 @@ var QualityPenaltyTable = {
     300: -0.09,
     310: -0.10,
     340: -0.11,
+    390: -0.12, // mine
 }
 
 // Test objects
