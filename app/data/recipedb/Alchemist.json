@@ -18,18 +18,52 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 4444,
+    "difficulty": 4258,
     "durability": 70,
     "id": "5f43862f943",
     "level": 390,
-    "maxQuality": 34579,
+    "maxQuality": 31057,
     "name": {
-      "cn": "Progress: 4443, Quality: 34579",
-      "de": "Progress: 4443, Quality: 34579",
-      "en": "Progress: 4443, Quality: 34579",
-      "fr": "Progress: 4443, Quality: 34579",
-      "ja": "Progress: 4443, Quality: 34579",
-      "ko": "Progress: 4443, Quality: 34579"
+      "cn": "Progress: 4258, Quality: 31057 (20%)",
+      "de": "Progress: 4258, Quality: 31057 (20%)",
+      "en": "Progress: 4258, Quality: 31057 (20%)",
+      "fr": "Progress: 4258, Quality: 31057 (20%)",
+      "ja": "Progress: 4258, Quality: 31057 (20%)",
+      "ko": "Progress: 4258, Quality: 31057 (20%)"
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 4435,
+    "durability": 70,
+    "id": "5f43862f943",
+    "level": 390,
+    "maxQuality": 32351,
+    "name": {
+      "cn": "Progress: 4435, Quality: 32351 (25%)",
+      "de": "Progress: 4435, Quality: 32351 (25%)",
+      "en": "Progress: 4435, Quality: 32351 (25%)",
+      "fr": "Progress: 4435, Quality: 32351 (25%)",
+      "ja": "Progress: 4435, Quality: 32351 (25%)",
+      "ko": "Progress: 4435, Quality: 32351 (25%)"
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 4612,
+    "durability": 70,
+    "id": "5f43862f943",
+    "level": 390,
+    "maxQuality": 33645,
+    "name": {
+      "cn": "Progress: 4612, Quality: 33645 (30%)",
+      "de": "Progress: 4612, Quality: 33645 (30%)",
+      "en": "Progress: 4612, Quality: 33645 (30%)",
+      "fr": "Progress: 4612, Quality: 33645 (30%)",
+      "ja": "Progress: 4612, Quality: 33645 (30%)",
+      "ko": "Progress: 4612, Quality: 33645 (30%)"
     },
     "stars": 4
   }
