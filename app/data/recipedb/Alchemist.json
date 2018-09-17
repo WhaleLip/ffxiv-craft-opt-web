@@ -66,5 +66,22 @@
       "ko": "Progress: 4612, Quality: 33645 (30%)"
     },
     "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 4258,
+    "durability": 70,
+    "id": "5f43862f943",
+    "level": 390,
+    "maxQuality": 33645,
+    "name": {
+      "cn": "Progress: 4612, Quality: 33645 (20/30%)",
+      "de": "Progress: 4612, Quality: 33645 (20/30%)",
+      "en": "Progress: 4612, Quality: 33645 (20/30%)",
+      "fr": "Progress: 4612, Quality: 33645 (30%)",
+      "ja": "Progress: 4612, Quality: 33645 (30%)",
+      "ko": "Progress: 4612, Quality: 33645 (30%)"
+    },
+    "stars": 4
   }
 ]
