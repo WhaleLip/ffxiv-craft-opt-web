@@ -2022,6 +2022,7 @@ var Ing1RecipeLevelTable = {
     300: 291,   // 70_1star
     320: 292,   // 70_2star
     350: 293,   // 70_3star
+    380: 293,   // 70_4star mine
     390: 294,   // 70_4star mine
 };
 
@@ -2071,6 +2072,7 @@ var Ing2RecipeLevelTable = {
     300: 290,   // 70_1star
     320: 291,   // 70_2star
     350: 292,   // 70_3star
+    380: 293,   // 70_4star mine
     390: 293,   // 70_4star mine
 };
 
@@ -2095,6 +2097,7 @@ var ProgressPenaltyTable = {
     250: -0.04,
     320: -0.02,
     350: -0.035,
+    380: -0.04, // mine
     390: -0.04, // mine
 }
 
@@ -2108,6 +2111,7 @@ var QualityPenaltyTable = {
     300: -0.09,
     310: -0.10,
     340: -0.11,
+    380: -0.12, // mine
     390: -0.12, // mine
 }
 
