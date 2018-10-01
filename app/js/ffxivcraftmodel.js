@@ -2097,8 +2097,8 @@ var ProgressPenaltyTable = {
     250: -0.04,
     320: -0.02,
     350: -0.035,
-    380: -0.045, // mine
-    390: -0.04, // mine
+    380: -0.04, // mine
+    390: -0.045, // mine
 }
 
 var QualityPenaltyTable = {
@@ -2112,7 +2112,7 @@ var QualityPenaltyTable = {
     310: -0.10,
     340: -0.11,
     380: -0.12, // mine
-    390: -0.12, // mine
+    390: -0.13, // mine
 }
 
 // Test objects
