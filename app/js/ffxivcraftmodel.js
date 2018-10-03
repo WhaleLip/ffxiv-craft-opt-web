@@ -2097,8 +2097,8 @@ var ProgressPenaltyTable = {
     250: -0.04,
     320: -0.02,
     350: -0.035,
-    380: -0.04, // mine
     390: -0.045, // mine
+    //390: -0.045, // mine
 }
 
 var QualityPenaltyTable = {
